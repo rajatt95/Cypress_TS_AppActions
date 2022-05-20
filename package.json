@@ -1,0 +1,32 @@
+{
+  "name": "ko_cypress_ts_app_actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "-----------> Comment #11": "UDEMY - Kaniel Outis (Section 5: Framework Project - App Actions with Typescript) - START",
+   
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
+
+    "-----------> Comment #12": "UDEMY - Kaniel Outis (Section 5: Framework Project - App Actions with Typescript) - END"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajatt95/Cypress_TS_AppActions.git"
+  },
+  "keywords": [],
+  "author": "Rajat Verma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajatt95/Cypress_TS_AppActions/issues"
+  },
+  "homepage": "https://github.com/rajatt95/Cypress_TS_AppActions#readme",
+  "dependencies": {
+    "cypress": "^9.6.1",
+    "cypress-mochawesome-reporter": "^3.1.0",
+    "prettier": "^2.6.2",
+    "typescript": "^4.6.4"
+  }
+}
